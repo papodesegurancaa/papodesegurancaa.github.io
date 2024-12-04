@@ -26,6 +26,11 @@ There should be whitespace between paragraphs. We recommend including a README, 
 - 🛠️ **Análise de Vulnerabilidades**: Identificação e mitigação de falhas críticas em sistemas e aplicações.
 - 📚 **Aprendiz Contínuo**: Sempre em busca de novos conhecimentos em segurança ofensiva (*penetration testing*) e defensiva.
 
+🎯 Objetivo Profissional
+🚀 Estou à procura de oportunidades para colaborar em projetos desafiadores na área de segurança cibernética. Entre em contato e fale mais sobre seu projeto!
+
+📩 **Email:** eusamuelssantos@gmail.com
+
 <!---This is a blockquote following a header.
 
  When something is important enough, you do it even if the odds are not in your favor. --->
