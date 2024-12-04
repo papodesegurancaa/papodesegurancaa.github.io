@@ -22,31 +22,25 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 <!--This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.-->
 
-# ℹ️ Sobre Mim
+### ℹ️ Sobre Mim
 
 - 🕵️‍♂️ **Especialista em OSINT**: Experiência em coleta e análise de informações públicas para investigações cibernéticas.
 - 🔧 **Hardware Hacking Enthusiast**: Desmontando dispositivos IoT, sistemas embarcados e explorando vulnerabilidades físicas.
 - 🛠️ **Análise de Vulnerabilidades**: Identificação e mitigação de falhas críticas em sistemas e aplicações.
 - 📚 **Aprendiz Contínuo**: Sempre em busca de novos conhecimentos em segurança ofensiva (*penetration testing*) e defensiva.
-
-
-
-📩 **Email:** eusamuelssantos@gmail.com
-
 <!---This is a blockquote following a header.
-
  When something is important enough, you do it even if the odds are not in your favor. --->
-
-
 ### 🛠️ Habilidades Técnicas
 - **Linguagens**: ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 - **Ferramentas de Pentest**: ![Nmap](https://img.shields.io/badge/-Nmap-4682B4?style=flat-square&logo=nmap&logoColor=white) ![Metasploit](https://img.shields.io/badge/-Metasploit-1F2937?style=flat-square&logo=metasploit&logoColor=white) ![Burp Suite](https://img.shields.io/badge/-Burp_Suite-FE7A16?style=flat-square&logo=burp-suite&logoColor=white)
 - **OSINT Tools**: ![Maltego](https://img.shields.io/badge/-Maltego-1B1F23?style=flat-square&logo=data:image/svg+xml;base64,[...]&logoColor=white) ![Shodan](https://img.shields.io/badge/-Shodan-F80000?style=flat-square&logo=shodan&logoColor=white)
 - **Hardware Hacking**: Arduino, Raspberry Pi, Smartphones, Câmeras IP, Modem e Roteador, análise de firmware.
 
-- **Formação Técnica**: Segurança da Informação - Universidade Nove de Julho - Uninove - 2017/2019
-- **Certificações (Concluidas)**: Google Cybersecurity Professional Certificate
-- **Certificações (Em andamento)**: Cybersecurity certification Qualys
+### 💻 **Formação Técnica**
+- Segurança da Informação - Universidade Nove de Julho - Uninove - 2017/2019
+  **Certificações**:
+- Google Cybersecurity Professional Certificate - Concluído
+- Cybersecurity Certification Qualys - Em andamento
   
 
 
