@@ -6,9 +6,9 @@ layout: default
 
 <!--[Link to another page](./another-page.html).--
 
-There should be whitespace between paragraphs.
+<!--There should be whitespace between paragraphs.-->
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.-->
+<!--There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.-->
 
 # Bem-vindo
 
@@ -30,6 +30,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 - 📚 **Aprendiz Contínuo**: Sempre em busca de novos conhecimentos em segurança ofensiva (*penetration testing*) e defensiva.
 <!---This is a blockquote following a header.
  When something is important enough, you do it even if the odds are not in your favor. --->
+ 
 ### 🛠️ Habilidades Técnicas
 - **Linguagens**: ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 - **Ferramentas de Pentest**: ![Nmap](https://img.shields.io/badge/-Nmap-4682B4?style=flat-square&logo=nmap&logoColor=white) ![Metasploit](https://img.shields.io/badge/-Metasploit-1F2937?style=flat-square&logo=metasploit&logoColor=white) ![Burp Suite](https://img.shields.io/badge/-Burp_Suite-FE7A16?style=flat-square&logo=burp-suite&logoColor=white)
