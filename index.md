@@ -39,7 +39,7 @@ layout: default
 
 ### 💻 **Formação Técnica**
 - Segurança da Informação - Universidade Nove de Julho - Uninove - 2017/2019
-  **Certificações**:
+####  **Certificações**:
 - Google Cybersecurity Professional Certificate - Concluído
 - Cybersecurity Certification Qualys - Em andamento
   
@@ -62,19 +62,19 @@ end
 ``` --->
 
 
-#### Header 4
+## Header 4
 
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
 
-##### Header 5
+### Header 5
 
 1.  This is an ordered list following a header.
 2.  This is an ordered list following a header.
 3.  This is an ordered list following a header.
 
-###### 🌐 Onde me encontrar
+### 🌐 Onde me encontrar
 - 💼 [LinkedIn](https://www.linkedin.com/in/samuelsants/)
 - 🐦 [Twitter](https://twitter.com/seutwitter)
 
