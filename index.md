@@ -36,6 +36,10 @@ There should be whitespace between paragraphs. We recommend including a README, 
 - **OSINT Tools**: ![Maltego](https://img.shields.io/badge/-Maltego-1B1F23?style=flat-square&logo=data:image/svg+xml;base64,[...]&logoColor=white) ![Shodan](https://img.shields.io/badge/-Shodan-F80000?style=flat-square&logo=shodan&logoColor=white)
 - **Hardware Hacking**: Arduino, Raspberry Pi, Smartphones, Câmeras IP, Modem e Roteador, análise de firmware.
 
+- **Formação Técnica**: Segurança da Informação - Universidade Nove de Julho - Uninove - 2017/2019
+- **Certificações (Concluidas)**: Google Cybersecurity Professional Certificate
+- **Certificações (Em andamento)**: Cybersecurity certification Qualys
+<!--
 ```js
 // Javascript code with syntax highlighting.
 var fun = function lang(l) {
@@ -49,7 +53,7 @@ var fun = function lang(l) {
 GitHubPages::Dependencies.gems.each do |gem, version|
   s.add_dependency(gem, "= #{version}")
 end
-```
+``` -->
 
 #### Header 4
 
@@ -106,7 +110,11 @@ end
   - level 2 item
 - level 1 item
 
-### Small image
+### 🌐 Onde me encontrar
+- 💼 [LinkedIn](https://www.linkedin.com/in/samuelsants/)
+- 🐦 [Twitter](https://twitter.com/seutwitter)
+
+<!--Small image
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
@@ -134,4 +142,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 
 ```
 The final element.
-```
+``` -->
