@@ -19,7 +19,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 <!--This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.-->
 
-## 🌟 Sobre Mim
+## :information_source: Sobre Mim
 
 - 🕵️‍♂️ **Especialista em OSINT**: Experiência em coleta e análise de informações públicas para investigações cibernéticas.
 - 🔧 **Hardware Hacking Enthusiast**: Desmontando dispositivos IoT, sistemas embarcados e explorando vulnerabilidades físicas.
