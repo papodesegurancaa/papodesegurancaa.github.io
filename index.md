@@ -12,6 +12,11 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # Header 1
 
+# 👨‍💻 Olá humano, Samuel aqui 👽
+
+🛡️ **Cybersecurity Professional | Vulnerability Analysis | OSINT | Hardware Hacking**  
+🔍 *Tenho como objetivo encontrar vulnerabilidades e auxiliar meus clientes a proteger a si mesmos, suas companhias e seus dados.*
+
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
 ## Header 2
