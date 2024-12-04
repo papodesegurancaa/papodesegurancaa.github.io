@@ -25,11 +25,13 @@ There should be whitespace between paragraphs. We recommend including a README, 
 - 🔧 **Hardware Hacking Enthusiast**: Desmontando dispositivos IoT, sistemas embarcados e explorando vulnerabilidades físicas.
 - 🛠️ **Análise de Vulnerabilidades**: Identificação e mitigação de falhas críticas em sistemas e aplicações.
 - 📚 **Aprendiz Contínuo**: Sempre em busca de novos conhecimentos em segurança ofensiva (*penetration testing*) e defensiva.
-<!--
-<!--> This is a blockquote following a header.-->
+<!---
 
-<!--> When something is important enough, you do it even if the odds are not in your favor.-->
--->
+This is a blockquote following a header.
+
+ When something is important enough, you do it even if the odds are not in your favor.
+
+--->
 
 ### 🛠️ Habilidades Técnicas
 - **Linguagens**: ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
@@ -41,7 +43,8 @@ There should be whitespace between paragraphs. We recommend including a README, 
 - **Certificações (Concluidas)**: Google Cybersecurity Professional Certificate
 - **Certificações (Em andamento)**: Cybersecurity certification Qualys
   
-<!--
+<!---
+
 //```js
 // Javascript code with syntax highlighting.
 var fun = function lang(l) {
@@ -55,7 +58,8 @@ var fun = function lang(l) {
 GitHubPages::Dependencies.gems.each do |gem, version|
   s.add_dependency(gem, "= #{version}")
 end
-``` -->
+``` 
+--->
 
 #### Header 4
 
