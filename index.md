@@ -39,8 +39,9 @@ There should be whitespace between paragraphs. We recommend including a README, 
 - **Formação Técnica**: Segurança da Informação - Universidade Nove de Julho - Uninove - 2017/2019
 - **Certificações (Concluidas)**: Google Cybersecurity Professional Certificate
 - **Certificações (Em andamento)**: Cybersecurity certification Qualys
+  
 <!--
-```js
+//```js
 // Javascript code with syntax highlighting.
 var fun = function lang(l) {
   dateformat.i18n = require('./lang/' + l)
@@ -48,7 +49,7 @@ var fun = function lang(l) {
 }
 ```
 
-```ruby
+//```ruby
 # Ruby code with syntax highlighting
 GitHubPages::Dependencies.gems.each do |gem, version|
   s.add_dependency(gem, "= #{version}")
@@ -67,7 +68,11 @@ end
 2.  This is an ordered list following a header.
 3.  This is an ordered list following a header.
 
-###### Header 6
+###### 🌐 Onde me encontrar
+- 💼 [LinkedIn](https://www.linkedin.com/in/samuelsants/)
+- 🐦 [Twitter](https://twitter.com/seutwitter)
+<!--
+Header 6
 
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
@@ -109,10 +114,6 @@ end
   - level 2 item
   - level 2 item
 - level 1 item
-
-### 🌐 Onde me encontrar
-- 💼 [LinkedIn](https://www.linkedin.com/in/samuelsants/)
-- 🐦 [Twitter](https://twitter.com/seutwitter)
 
 <!--Small image
 
