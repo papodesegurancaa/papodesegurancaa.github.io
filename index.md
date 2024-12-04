@@ -17,9 +17,14 @@ There should be whitespace between paragraphs. We recommend including a README, 
 🛡️ **Cybersecurity Professional | Vulnerability Analysis | OSINT | Hardware Hacking**  
 🔍 *Tenho como objetivo encontrar vulnerabilidades e auxiliar meus clientes a proteger a si mesmos, suas companhias e seus dados.*
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+<!--This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.-->
 
-## Header 2
+## 🌟 Sobre Mim
+
+- 🕵️‍♂️ **Especialista em OSINT**: Experiência em coleta e análise de informações públicas para investigações cibernéticas.
+- 🔧 **Hardware Hacking Enthusiast**: Desmontando dispositivos IoT, sistemas embarcados e explorando vulnerabilidades físicas.
+- 🛠️ **Análise de Vulnerabilidades**: Identificação e mitigação de falhas críticas em sistemas e aplicações.
+- 📚 **Aprendiz Contínuo**: Sempre em busca de novos conhecimentos em segurança ofensiva (*penetration testing*) e defensiva.
 
 > This is a blockquote following a header.
 >
