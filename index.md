@@ -37,7 +37,7 @@ layout: default
 - **OSINT Tools**: ![Maltego](https://img.shields.io/badge/-Maltego-1B1F23?style=flat-square&logo=data:image/svg+xml;base64,[...]&logoColor=white) ![Shodan](https://img.shields.io/badge/-Shodan-F80000?style=flat-square&logo=shodan&logoColor=white)
 - **Hardware Hacking**: Arduino, Raspberry Pi, Smartphones, Câmeras IP, Modem e Roteador, análise de firmware.
 
-## 💻 **Formação Técnica**
+### 💻 **Formação Técnica**
 - Segurança da Informação - Universidade Nove de Julho - Uninove - 2017/2019
 
 **Certificações**:
@@ -63,7 +63,7 @@ end
 ``` --->
 
 
-## 🔗 Projetos em Destaque
+### 🔗 Projetos em Destaque
 
 Header 4
 
