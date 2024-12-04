@@ -12,7 +12,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # Bem-vindo
 
-#👨‍💻 Olá humano, Samuel aqui 👽
+👨‍💻 Olá humano, Samuel aqui 👽
 
 🛡️ **Cybersecurity Professional | Vulnerability Analysis | OSINT | Hardware Hacking**  
 🔍 *Tenho como objetivo encontrar vulnerabilidades e auxiliar meus clientes a proteger a si mesmos, suas companhias e seus dados.*
