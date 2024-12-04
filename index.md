@@ -30,7 +30,11 @@ There should be whitespace between paragraphs. We recommend including a README, 
 >
 <!--> When something is important enough, you do it even if the odds are not in your favor.-->
 
-### Header 3
+### 🛠️ Habilidades Técnicas
+- **Linguagens**: ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+- **Ferramentas de Pentest**: ![Nmap](https://img.shields.io/badge/-Nmap-4682B4?style=flat-square&logo=nmap&logoColor=white) ![Metasploit](https://img.shields.io/badge/-Metasploit-1F2937?style=flat-square&logo=metasploit&logoColor=white) ![Burp Suite](https://img.shields.io/badge/-Burp_Suite-FE7A16?style=flat-square&logo=burp-suite&logoColor=white)
+- **OSINT Tools**: ![Maltego](https://img.shields.io/badge/-Maltego-1B1F23?style=flat-square&logo=data:image/svg+xml;base64,[...]&logoColor=white) ![Shodan](https://img.shields.io/badge/-Shodan-F80000?style=flat-square&logo=shodan&logoColor=white)
+- **Hardware Hacking**: Arduino, Raspberry Pi, Smartphones, Câmeras IP, Modem e Roteador, análise de firmware.
 
 ```js
 // Javascript code with syntax highlighting.
