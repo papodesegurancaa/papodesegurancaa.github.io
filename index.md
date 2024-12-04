@@ -39,7 +39,8 @@ layout: default
 
 ### 💻 **Formação Técnica**
 - Segurança da Informação - Universidade Nove de Julho - Uninove - 2017/2019
-####  **Certificações**:
+
+###  **Certificações**:
 - Google Cybersecurity Professional Certificate - Concluído
 - Cybersecurity Certification Qualys - Em andamento
   
