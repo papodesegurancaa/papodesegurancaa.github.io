@@ -71,6 +71,7 @@ end
 ###### 🌐 Onde me encontrar
 - 💼 [LinkedIn](https://www.linkedin.com/in/samuelsants/)
 - 🐦 [Twitter](https://twitter.com/seutwitter)
+
 <!--
 Header 6
 
