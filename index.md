@@ -10,8 +10,7 @@ layout: default
 
 <!--There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.-->
 
-# Bem-vindo
-
+## Bem-vindo
 👨‍💻 Olá humano, Samuel aqui 👽
 
 🛡️ **Cybersecurity Professional | Vulnerability Analysis | OSINT | Hardware Hacking**  
