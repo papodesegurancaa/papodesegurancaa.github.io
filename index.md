@@ -63,7 +63,7 @@ end
 
 ### 🔗 Projetos em Destaque
 
-Header 4
+[SIEM-Lab](https://github.com/papodesegurancaa/SIEM-Lab)
 
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
